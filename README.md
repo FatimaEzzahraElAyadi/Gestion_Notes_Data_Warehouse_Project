@@ -57,15 +57,15 @@ Voici le lien drive du fichier Excel :
 
 ## ETL
 
-###Schéma en étoile
+### Schéma en étoile
 <img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/shema.PNG">
 
 ### Dimensions
+<img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/execDim.PNG">
 
 ### Fact Table
+<img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/execfact.PNG">
 
-
-[Insérer des captures d'écran ici pour montrer l'application en action]
 
 ---
 
