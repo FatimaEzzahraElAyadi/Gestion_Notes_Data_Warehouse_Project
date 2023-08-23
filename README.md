@@ -26,8 +26,8 @@ Ce projet permet de créer un Data Warehouse pour gérer les notes des étudiant
 ## Data Sources 
 
 Voici le lien drive du fichier Excel :
-https://docs.google.com/spreadsheets/d/1y06hQs4LswAqXd7gtf0hlc-wn64-
-oQ5e/edit?usp=share_link&ouid=101368510487800593049&rtpof=true&sd=true
+(https://docs.google.com/spreadsheets/d/1y06hQs4LswAqXd7gtf0hlc-wn64-
+oQ5e/edit?usp=share_link&ouid=101368510487800593049&rtpof=true&sd=true).
 
 ---
 
@@ -61,3 +61,7 @@ oQ5e/edit?usp=share_link&ouid=101368510487800593049&rtpof=true&sd=true
 [Insérer des captures d'écran ici pour montrer l'application en action]
 
 ---
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ismail-harik-241b371b9](https://www.linkedin.com/in/fatima-ezzahra-el-ayadi-977bb5196/))
