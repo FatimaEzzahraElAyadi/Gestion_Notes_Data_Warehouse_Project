@@ -55,7 +55,13 @@ Voici le lien drive du fichier Excel :
 
 ---
 
-## Captures d'écran
+## ETL
+![Schéma en étoile](star_schema.PNG)
+
+### Dimensions
+
+### Fact Table
+
 
 [Insérer des captures d'écran ici pour montrer l'application en action]
 
