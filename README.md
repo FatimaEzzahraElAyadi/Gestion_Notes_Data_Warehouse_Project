@@ -35,7 +35,7 @@ Voici le lien drive du fichier Excel :
 - `/ETL/` : Contient les fichiers de configuration Talend pour l'extraction, la transformation et le chargement des données.
 - `/Database/` : Contient les scripts SQL pour créer la base de données.
 - `/Rapports/` : Contient les rapports Power BI.
-- `/Captures d'écran/` : Capture d'écran de l'application en action.
+- `/Images/` : Capture d'écran de l'application en action.
 
 ---
 
