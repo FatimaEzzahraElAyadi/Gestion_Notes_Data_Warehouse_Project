@@ -1,10 +1,10 @@
-# Gestion_Notes_Data_Warehouse_Project
+# ⚙️ Gestion_Notes_Data_Warehouse_Project
 
 Ce projet permet de créer un Data Warehouse pour gérer les notes des étudiants, en calculant la moyenne de chaque étudiant, son taux de réussite et d'échec, ainsi que d'autres indicateurs clés de performance (KPI). 
 
 ---
 
-## Objectif
+## 🎯 Objectif
 
 - Concevoir et mettre en place un entrepôt de données (Data Warehouse) pour la gestion des notes des étudiants.
 - Calculer la moyenne de chaque étudiant.
@@ -13,7 +13,7 @@ Ce projet permet de créer un Data Warehouse pour gérer les notes des étudiant
 
 ---
 
-## Technologies Utilisées
+## 🛠️ Technologies Utilisées
 
 - WampServer
 - Talend
@@ -23,14 +23,14 @@ Ce projet permet de créer un Data Warehouse pour gérer les notes des étudiant
 
 ---
 
-## Data Sources 
+## 📂 Data Sources 
 
 Le lien drive du fichier Excel :
 [Data_Source](https://docs.google.com/spreadsheets/d/1q01kvSEl-V67SUqAyrsjXOxdtbiBaqRZ/edit?usp=sharing&ouid=101368510487800593049&rtpof=true&sd=true)
 
 ---
 
-## Structure du Projet
+## 📋 Structure du Projet
 
 - `/Project/` : Contient les fichiers de configuration Talend pour l'extraction, la transformation et le chargement des données.
 - `/Database/` : Contient les scripts SQL pour créer la base de données.
@@ -39,7 +39,7 @@ Le lien drive du fichier Excel :
 
 ---
 
-## Installation
+## 🚀 Installation
 
 1. Cloner le dépôt depuis GitHub.
 2. Installer WampServer et configurer une base de données MySQL.
@@ -48,14 +48,14 @@ Le lien drive du fichier Excel :
 
 ---
 
-## Utilisation
+## ⚡ Utilisation
 
 1. Lancer l'application Data Warehouse.
 2. Accéder aux rapports Power BI pour visualiser les données.
 
 ---
 
-## ETL
+## 🛠️ ETL
 
 ### Schéma en étoile
 <img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/shema.PNG">
@@ -69,7 +69,7 @@ Le lien drive du fichier Excel :
 
 ---
 
-## Visualisation
+## 📊 Visualisation
 <img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/tauxparidfiliere.PNG">
 
 
