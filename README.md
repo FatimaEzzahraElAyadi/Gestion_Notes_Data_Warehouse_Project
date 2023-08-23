@@ -70,6 +70,7 @@ Voici le lien drive du fichier Excel :
 ---
 
 ## Visualisation
+<img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/tauxparidfiliere.PNG">
 
 
 ## 🔗 Links
