@@ -63,11 +63,14 @@ Voici le lien drive du fichier Excel :
 ### Dimensions
 <img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/execDim.PNG">
 
-### Fact Table
+### Table de fait
 <img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/execfact.PNG">
 
 
 ---
+
+## Visualisation
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FatimaEzzahraElAyadi/)
