@@ -56,7 +56,9 @@ Voici le lien drive du fichier Excel :
 ---
 
 ## ETL
-![Schéma en étoile](star_schema.PNG)
+
+###Schéma en étoile
+<img src="https://github.com/FatimaEzzahraElAyadi/Gestion_Notes_Data_Warehouse_Project/blob/master/Images/shema.PNG">
 
 ### Dimensions
 
