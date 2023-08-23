@@ -23,6 +23,14 @@ Ce projet permet de créer un Data Warehouse pour gérer les notes des étudiant
 
 ---
 
+## Data Sources 
+
+Voici le lien drive du fichier Excel :
+https://docs.google.com/spreadsheets/d/1y06hQs4LswAqXd7gtf0hlc-wn64-
+oQ5e/edit?usp=share_link&ouid=101368510487800593049&rtpof=true&sd=true
+
+---
+
 ## Structure du Projet
 
 - `/ETL/` : Contient les fichiers de configuration Talend pour l'extraction, la transformation et le chargement des données.
