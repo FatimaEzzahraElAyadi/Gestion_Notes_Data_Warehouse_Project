@@ -1,7 +1,6 @@
 # Gestion_Notes_Data_Warehouse_Project
-Ce projet de Gestion des Notes des Étudiants est réalisé dans le cadre du cours de Data Warehouse de l'Institut National de Statistique et d'Économie Appliquée (INSEA) pour l'année universitaire 2022-2023.
 
-L'objectif principal de ce projet est de créer un Data Warehouse pour gérer les notes des étudiants, en calculant la moyenne de chaque étudiant, son taux de réussite et d'échec, ainsi que d'autres indicateurs clés de performance (KPI). Le projet utilise des technologies telles que WampServer, Talend, et Power BI pour mettre en œuvre ces fonctionnalités.
+Ce projet permet de créer un Data Warehouse pour gérer les notes des étudiants, en calculant la moyenne de chaque étudiant, son taux de réussite et d'échec, ainsi que d'autres indicateurs clés de performance (KPI). 
 
 ---
 
